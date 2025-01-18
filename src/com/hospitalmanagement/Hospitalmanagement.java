@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class Hospitalmanagement {
     private static final String url="jdbc:mysql://localhost:3306/hospitalmanagement";
     private static final String username="root";
-    private static final String password="mathish!";
+    private static final String password="password";
 
     public static void main(String[] args) {
         try{
